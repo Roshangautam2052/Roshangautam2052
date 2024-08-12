@@ -39,10 +39,7 @@ I am a software developer with a passion for engineering innovative solutions an
 
 -💻 While I began as a `software ` developer, my focus has now shifted more towards `backend web development`, with a strong interest in [Java](https://docs.oracle.com/en/java/) using [Spring](https://spring.io/projects/spring-boot/) development.
 
--👨‍💻Currently, I'm looking for an entry-level job, placement opportuinities or internships.My tech stack has evolved over time, and I've been learning and implementing from specializing in the tech stack (Java, SpringBoot, Microservices).
-
--The journey of building simple dummy websites in high school using HTML to building full-stack web applications, desktop applications, and AI models in Universities and internships has always fueled my curiosity, love passion, and dedication to becoming closer to understanding and developing softwares.
-
+-👨‍💻Currently, I'm working as a Scala Developer at Mercator Digital. My tech stack has evolved over time, and I've been learning and implementing from specializing in the tech stack (Scala, Java,PlayFramework SpringBoot) on Monolithic and Microservices architecture.
 -🌱I believe in a diverse approach to self-development. To keep my skills sharp, I'm actively learning [Spring](https://spring.io/projects/spring-boot/), [TypeScript](https://www.typescriptlang.org/) and [Angular](https://angular.io/) and doing personal projects and contributing to open source projects.
 
 </p>
@@ -54,7 +51,7 @@ I am a software developer with a passion for engineering innovative solutions an
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" alt="Languages Skills">
+  <img src="https://skillicons.dev/icons?i=scala,java,python,js,c,cpp" alt="Languages Skills">
 </p>
 <h3 align="center">Frontend Development </h3>
 
