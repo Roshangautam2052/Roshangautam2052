@@ -66,6 +66,6 @@
 <h2 align="center">Contact Me</h2>
 
 <p align="center">
-  You can reach out to me via email: <a href="mailto:roshangautam1876@gmail.com">roshangautam2052@gmail.com</a>.
+  You can reach out to me via email: <a href="mailto:roshangautam1876@gmail.com">roshangautam1876@gmail.com</a>.
 </p>
 
