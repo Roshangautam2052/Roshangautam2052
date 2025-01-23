@@ -15,10 +15,6 @@
         <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
         </a>
 </p>
-
-
-
-<h2 align="center">About Me</h1>
 <p align ="center">
 I am a software developer with a passion for engineering innovative solutions and specializing in backend web development.
 </p>
