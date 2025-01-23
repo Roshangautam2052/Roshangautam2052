@@ -37,7 +37,7 @@
 <h3 align="center">Backend Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=play frameworkspring,nodejs" alt="Backend Skills">
+  <img src="https://skillicons.dev/icons?i=spring" alt="Backend Skills">
 </p>
 
 <h3 align="center">Databases</h3>
