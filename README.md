@@ -28,19 +28,6 @@ I am a software developer with a passion for engineering innovative solutions an
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roshangautam2052&theme=monokai" alt="Roshan's GitHub profile summary card">
 </p>
-<h2 align="center">My journey of Computer Science</h2>
-
-<p align="left">
--I recall the day when my parents bought me the first desktop of my life when I was 12, it was one of the happiest moments of my life, I can remember developing small programs in Q-Basic doing some basic mathematical operations, installing OS, messing up with system BIOS 😂, using DOS commands to create files, jump into directories.
-
--🚀I created my first website using pure [`HTML5`](https://developer.mozilla.org/en-US/docs/Web/HTML) code in 2012 during High School I was hard-coding the web using `Notepad`.
-  
--🎓I graduated in `Masters in Computer Science` from [Birmingham City University](https://www.bcu.ac.uk/) acquiring a merit degree. I'm an `Bachelors in Electronics & Communication Engineering` from [Tribhuvan Unversity, Instutite of Engineering(IOE)Purwanchal Campus ](https://www.ioepc.edu.np/).
-
--💻 While I began as a `software ` developer, my focus has now shifted more towards `backend web development`, with a strong interest in [Java](https://docs.oracle.com/en/java/) using [Spring](https://spring.io/projects/spring-boot/) development.
-
--👨‍💻Currently, I'm working as a Scala Developer at Mercator Digital. My tech stack has evolved over time, and I've been learning and implementing from specializing in the tech stack (Scala, Java,PlayFramework SpringBoot) on Monolithic and Microservices architecture.
--🌱I believe in a diverse approach to self-development. To keep my skills sharp, I'm actively learning [Spring](https://spring.io/projects/spring-boot/), [TypeScript](https://www.typescriptlang.org/) and [Angular](https://angular.io/) and doing personal projects and contributing to open source projects.
 
 </p>
 <h2 align="center">Skills</h1>
