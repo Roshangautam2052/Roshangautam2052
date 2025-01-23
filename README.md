@@ -16,7 +16,7 @@
         </a>
 </p>
 <p align ="center">
-I am a software developer with a passion for engineering innovative solutions and specializing in backend web development.
+  I am a software developer focused in  developing reactive, scalable backend application with experience on Scala and Java.
 </p>
 <h2 align="center">Skills</h1>
 <p align="center">
