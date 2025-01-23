@@ -37,7 +37,7 @@
 <h3 align="center">Backend Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Backend Skills">
+  <img src="https://skillicons.dev/icons?i=play frameworkspring,nodejs" alt="Backend Skills">
 </p>
 
 <h3 align="center">Databases</h3>
@@ -48,13 +48,13 @@
 <h3 align="center">Cloud</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,gcp" alt="Cloud">
+  <img src="https://skillicons.dev/icons?i=aws" alt="Cloud">
 </p>
 
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,hibernate,maven,idea,atom,vscode,bash,docker,linux" alt="Tools and Productivity Skills">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,hibernate,maven,idea,atom,vscode,bash,docker,linux" alt="Tools and Productivity Skills">
 </p>
 
 <h3 align="center">Extras</h3>
@@ -68,6 +68,4 @@
 <p align="center">
   You can reach out to me via email: <a href="mailto:roshangautam1876@gmail.com">roshangautam2052@gmail.com</a>.
 </p>
-<p align ="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Roshangautam2052" alt="GitHub Streak" /></a>
-</p>
+
